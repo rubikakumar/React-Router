@@ -21,9 +21,15 @@ let CardData = [
       category : 'All'
     },
     {
+<<<<<<< HEAD
        id: 3, 
        title: "10 Best DevOps Project Ideas for 2024",
        description:
+=======
+      id: 3,
+      title: "10 Best DevOps Project Ideas for 2024",
+      description:
+>>>>>>> 4ce65bcb96781c074156be86ce5fad6c45fa5ad2
         "DevOps is an amazing and highly demanding profession in the tech world. DevOps Projects are considered the",
       image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/DevOps-Project-Ideas-2048x1072.webp",
       date: '24 September 2024',
