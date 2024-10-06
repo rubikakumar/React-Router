@@ -21,12 +21,12 @@ let CardData = [
       category : 'All'
     },
     {
-       id: 3,
-      title: "Remove an element from a list in Python: 4 Convenient Methods To Look Out For",
+     id: 3,
+      title: "10 Best DevOps Project Ideas for 2024",
       description:
-        "A list in Python refers to a data structure in Python that is mutable or changeable. A Python list can contain",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2022/11/giphy-1.gif",
-      date: '30 September 2024',
+        "DevOps is an amazing and highly demanding profession in the tech world. DevOps Projects are considered the",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/DevOps-Project-Ideas-2048x1072.webp",
+      date: '24 September 2024',
       comment : 'No Comments',
       category : 'All'
     },
