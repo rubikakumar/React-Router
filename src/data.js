@@ -22,11 +22,11 @@ let CardData = [
     },
     {
       id: 3,
-      title: "Step-by-Step Guide: MongoDB Install on Windows in 5 Simple Steps",
+      title: "10 Best DevOps Project Ideas for 2024",
       description:
-        "Embarking on a MongoDB install on Windows marks a significant first step towards harnessing",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2024/06/2-4.png",
-      date: '30 September 2024',
+        "DevOps is an amazing and highly demanding profession in the tech world. DevOps Projects are considered the",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/DevOps-Project-Ideas-2048x1072.webp",
+      date: '24 September 2024',
       comment : 'No Comments',
       category : 'All'
     },
@@ -96,31 +96,31 @@ let CardData = [
     },
     {
       id: 10,
-      title: "Top 10 Unique Project Ideas for College Students",
+      title: "8 Important Skills Required for Mechanical Engineering",
       description:
-        "In this competitive world, success is accompanied by the uniqueness of an individual, especially the things that",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/06/feature-image-unique-project-ideas.jpg",
-      date: '23 July 2024',
+        "When someone says Mechanical engineering, the first thing that comes to all of our minds is either automobiles",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-Important-Skills-Required-for-Mechanical-Engineering-1.webp",
+      date: '04 September 2024',
       comment : 'No Comments',
       category : 'All'
     },
     {
       id: 11,
-      title: "10 Hardest and Easiest Programming Languages in 2024",
+      title: "How to Download an Image from Figma? A 5-Step Guide to Help You Out",
       description:
-        "If you are a beginner who wishes to start learning to code, it’s natural to look for the easiest programming",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/03/Untitled-design-41.jpg",
-      date: '06 September 2024',
+        "Whenever you work on creative software that works with media elements like images, video, or designs, it is",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-How-to-Download-an-Image-from-Figma.webp",
+      date: '30 September 2024',
       comment : 'No Comments',
       category : 'All'
     },
     {
       id: 12,
-      title: "Use ReactJS to Fetch and Display Data from API – 5 Simple Steps",
+      title: "The 8 Essential Skills for a Successful Automation Tester",
       description:
-        "In this blog, we’ll learn how to fetch and display data from APIs and use it in a ReactJS app. There are multiple",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Fetch-Data-using-API-in-React.Js.png",
-      date: '05 September 2024',
+        "Being able to automate tasks is one of the most revered skills in the tech industry, especially if it involves",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2023/09/Featured-Image-The-Essential-Skills-for-a-Successful-Automation-Tester.webp",
+      date: '25 September 2024',
       comment : 'No Comments',
       category : 'All'
     },
@@ -137,11 +137,11 @@ let CardData = [
     },
     {
       id: 14,
-      title: "10 Best React Project Ideas for Developers [with Source Code]",
+      title: "Top 7 Back-End Developer Skills You Should Know",
       description:
-        "Have you ever wondered how much time it would take to become a skilled Full",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2024/04/10-Best-React-Project-Ideas-for-Developers-with-Source-Code.png",
-      date: '04 October 2024',
+        "We all rely on the internet for everything. Open Google and ask your doubt, and you’ll get a solution in seconds.",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2023/03/backend-skills.jpg",
+      date: '18 September 2024',
       comment : 'No Comments',
       category : 'FSD'
        },
@@ -158,54 +158,54 @@ let CardData = [
     {
       id: 16,
       title:
-        "Top 10 Full-Stack Developer Frameworks in 2024",
+        "Best Ways to Learn Full Stack Development",
       description:
-        "In the ever-evolving world of technology, the demand for full stack developers is at an all-time high.",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
-      date: '17 September 2024',
+        "What do you think is the most sought-after job in the world right now? It is none other than full-stack",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2023/08/Featured-Image.png",
+      date: '18 September 2024',
       comment : 'No Comments',
       category : 'FSD'
     },
     {
       id: 17,
       title:
-        "How does Apache work? A detailed introduction to Apache",
+        "Best Books to Learn Full-Stack Development",
       description:
-        "Apache is the most widely used web server in the world, powering over 40% of all websites on the internet. It is",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/02/1_6rDcIgFJQldloIERiUSmzw.png",
-      date: '17 September 2024',
+        "Are you interested in becoming a full-stack developer but not sure where to start? In this blog, we’ll introduce",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-Best-Books-to-Learn-Full-Stack-Development.webp",
+      date: '18 September 2024',
       comment : 'No Comments',
       category : 'FSD'
     },
     {
       id: 18,
       title:
-        "Hot Topics That You Need To Know In Full Stack Developer Syllabus | 2024 [UPDATED]",
+        "Essential Next.js Libraries and Tools for 2024",
       description:
-        "Jack of all trades- A full stack developer has to work in all the areas of an application, be it the front end, server",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2021/09/Full-Stack-Developer-course-syllabus.png",
-      date: '17 September 2024',
+        "Next.js has emerged as a pivotal force in modern web development, combining the versatility of React js with the",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2024/05/feature-image.png",
+      date: '19 September 2024',
       comment : 'No Comments',
       category : 'FSD'
     },
     {
       id: 19,
-      title: "6 Essential Prerequisites For Learning ReactJS",
+      title: "OOPs Concepts in Java – 4 Basic Concepts",
       description:
-        "Have you ever wished to create your own modern website or app with high performance and security?",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2021/05/react-768x402.jpg",
-      date: '17 September 2024',
+        "During technical interviews, it is a must for interviewers to ask questions based on concepts like OOPs, DSA,",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2023/03/OOPSJ.jpg",
+      date: '18 September 2024',
       comment : 'No Comments',
       category : 'FSD'
     },
     {
       id: 20,
       title:
-        "Best Web Development Roadmap for Beginners",
+        "Types of CSS: A Comprehensive Guide to Styling Web Pages",
       description:
-        "Web Development is a booming, high-paying, and indeed promising career in the IT industry, into which",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/03/1.jpg",
-      date: '17 September 2024',
+        "In the world of web development, Cascading Style Sheets (CSS) play a crucial role in enhancing the",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2024/02/Feature-Image-Types-of-CSS-A-Comprehensive-Guide-to-Styling-Web-Pages.webp",
+      date: '18 September 2024',
       comment : 'No Comments',
       category : 'FSD'
     },
@@ -221,11 +221,11 @@ let CardData = [
     },
     {
       id: 22,
-      title: "Best Full-Stack Development Project Ideas in 2024",
+      title: "Is Web Development a Good Career?",
       description:
-        "When you give your resume to any potential recruiter, the first thing that they check apart from your education",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
-      date: '17 September 2024',
+        "Did you recently hear that being a Web Developer is cool? Well, if yes, then it depends on a few reasons",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2021/12/Top-Project-Ideas-Simple-Creative-10.png",
+      date: '03 October 2024',
       comment : 'No Comments',
       category : 'FSD'
     },
@@ -252,10 +252,10 @@ let CardData = [
     },
     {
       id: 25,
-      title: "Everything about Data Scientist Salary in India | 2024",
+      title: "Neural Network Skills to Succeed in Data Science",
       description:
-        "Whenever we decide to do a job, the first thing that we would notice apart from the passion is the salary that we",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/08/Everything-about-Data-Science-Salary-in-India.png",
+        "If you’re here, then you already understand what a huge grasp data scientists have in the tech world now and",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2022/12/image-9.png",
       date: '20 September 2024',
       comment : 'No Comments',
       category : 'DS'
@@ -263,33 +263,33 @@ let CardData = [
     {
       id: 26,
       title:
-        "Roles and Responsibilities of a Data Scientist",
+        "A Profound Data Scientist’s Career Path 2024",
       description:
-        "Data science is a rapidly growing field that has become essential for businesses to thrive",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/image-4.png",
-      date: '01 October 2024',
+        "All kinds of organizations ranging from retail to government, to healthcare heavily depend on data scientists.",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2022/12/image-15.png",
+      date: '20 September 2024',
       comment : 'No Comments',
       category : 'DS'
     },
     {
       id: 27,
       title:
-        "AI vs ML vs Data Science: What Should You Learn In 2024?",
+        "5 Key Components of Data Science: An Effective Guide",
       description:
-        "In 2014, a small instant messaging company with about 50 employees was acquired for $19 billion.",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2022/02/2.-AI-vs-ML-vs-Data-Science_-2048x1072.png",
-      date: '23 September 2024',
+        "Whichever field of study you take, it is mandatory that you have to master the components of that field to",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2024/07/5_key_components_of_data_science_an_effective_guide.webp",
+      date: '21 September 2024',
       comment : 'No Comments',
       category : 'DS'
     },
     {
       id: 28,
       title:
-        "How to become a Data Scientist after Mechanical Engineering?",
+        "What is the Data Science Life Cycle?",
       description:
-        "Switching careers can sound quite intimidating especially when you’re a mechanical engineer by",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/01/paper-analysis-2-2048x1365.jpg",
-      date: '01 October 2024',
+        "From predicting market trends to optimizing business operations, data science provides the tools and",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2024/07/Feature-Image-2.png",
+      date: '21 September 2024',
       comment : 'No Comments',
       category : 'DS'
     },
@@ -316,21 +316,21 @@ let CardData = [
     },
     {
       id: 31,
-      title: "<strong>How Long Would It Take to Learn Data Science?</strong>",
+      title: "Best Data Science Books to Learn in 2024",
       description:
-        "Have you ever wondered how much time it takes to learn data science?",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/08/How-Long-Would-It-Take-to-Learn-Data-Science-2048x1072.png",
-      date: '20 September 2024',
+        "Today, we’re going to talk about something really cool: data science. It’s all about using data to make smart",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-Best-books-to-learn-data-science.webp",
+      date: '21 September 2024',
       comment : 'No Comments',
       category : 'DS'
     },
     {
       id: 32,
-      title: "Hire Data Scientists with Ease | The Know-it-all Guide",
+      title: "Feature Selection Techniques in Machine Learning",
       description:
-        "Data is the veins and arteries of any business. They hold the superpower to make or break the growth of",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/06/Hiring-data-scientists.jpg",
-      date: '21 September 2024',
+        "Feature selection techniques in machine learning profoundly impact model performance and efficiency. You’ve",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2024/07/feature_selection_techniques_in_machine_learning.webp",
+      date: '24 September 2024',
       comment : 'No Comments',
       category : 'DS'
     },
@@ -378,10 +378,10 @@ let CardData = [
     {
       id: 37,
       title:
-        "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
+        "How Is Cyber Security Important To Our Lives?",
       description:
-        "Cybersecurity jobs are also one of the most handsomely paying jobs in recent times. Furthermore,",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.png",
+        "Cybersecurity is an exact solution that is sought either by a billionaire with a massive business or an innovator",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2020/11/cyber-security-1170x480.png",
       date: '27 September 2024',
       comment : 'No Comments',
       category : 'CS'

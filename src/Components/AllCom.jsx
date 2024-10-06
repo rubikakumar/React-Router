@@ -1,6 +1,7 @@
+import React from "react";
 import Card from "./Card";
 
-function AllCom({data}) {
+function AllCom({ data }) {
   let allContent = data;
   return (
     <>
