@@ -21,13 +21,9 @@ let CardData = [
       category : 'All'
     },
     {
-<<<<<<< HEAD
-      id: 3,
-=======
-     id: 3,
->>>>>>> c3e7bc161ebae12461985533e52e2680b96913bc
-      title: "10 Best DevOps Project Ideas for 2024",
-      description:
+       id: 3, 
+       title: "10 Best DevOps Project Ideas for 2024",
+       description:
         "DevOps is an amazing and highly demanding profession in the tech world. DevOps Projects are considered the",
       image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/DevOps-Project-Ideas-2048x1072.webp",
       date: '24 September 2024',
@@ -144,7 +140,7 @@ let CardData = [
       title: "Top 7 Back-End Developer Skills You Should Know",
       description:
         "We all rely on the internet for everything. Open Google and ask your doubt, and you’ll get a solution in seconds.",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/03/backend-skills.jpg",
+      image: "https://th.bing.com/th/id/OIP.oapF7B7_7vnaxT2A5n00vQAAAA?w=197&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       date: '18 September 2024',
       comment : 'No Comments',
       category : 'FSD'
@@ -165,7 +161,7 @@ let CardData = [
         "Best Ways to Learn Full Stack Development",
       description:
         "What do you think is the most sought-after job in the world right now? It is none other than full-stack",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/08/Featured-Image.png",
+      image: "https://th.bing.com/th/id/OIP.xzg8KsZLEFlL47CmSLpQIAHaD4?w=296&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       date: '18 September 2024',
       comment : 'No Comments',
       category : 'FSD'
@@ -187,7 +183,7 @@ let CardData = [
         "Essential Next.js Libraries and Tools for 2024",
       description:
         "Next.js has emerged as a pivotal force in modern web development, combining the versatility of React js with the",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2024/05/feature-image.png",
+      image: "https://blog.openreplay.com/images/authentication-and-authorization-with-ssr-in-nextjs/images/hero.png",
       date: '19 September 2024',
       comment : 'No Comments',
       category : 'FSD'
@@ -197,7 +193,7 @@ let CardData = [
       title: "OOPs Concepts in Java – 4 Basic Concepts",
       description:
         "During technical interviews, it is a must for interviewers to ask questions based on concepts like OOPs, DSA,",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/03/OOPSJ.jpg",
+      image: "https://th.bing.com/th/id/OIP.M_kuxOEJGd6eUNZC19TjgAHaEf?w=286&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       date: '18 September 2024',
       comment : 'No Comments',
       category : 'FSD'
@@ -228,7 +224,7 @@ let CardData = [
       title: "Is Web Development a Good Career?",
       description:
         "Did you recently hear that being a Web Developer is cool? Well, if yes, then it depends on a few reasons",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2021/12/Top-Project-Ideas-Simple-Creative-10.png",
+      image: "https://th.bing.com/th/id/OIP.KzYnSPRI7tTvScup3Y2UMwHaFQ?w=209&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       date: '03 October 2024',
       comment : 'No Comments',
       category : 'FSD'
@@ -259,7 +255,7 @@ let CardData = [
       title: "Neural Network Skills to Succeed in Data Science",
       description:
         "If you’re here, then you already understand what a huge grasp data scientists have in the tech world now and",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2022/12/image-9.png",
+      image: "https://th.bing.com/th/id/OIP.-lCfvIQORXKclZEBD7PWYwHaFi?w=202&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       date: '20 September 2024',
       comment : 'No Comments',
       category : 'DS'
@@ -270,7 +266,7 @@ let CardData = [
         "A Profound Data Scientist’s Career Path 2024",
       description:
         "All kinds of organizations ranging from retail to government, to healthcare heavily depend on data scientists.",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2022/12/image-15.png",
+      image: "https://th.bing.com/th/id/OIP.HuZswBGbsPcePjnESJE7VwHaE8?w=225&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       date: '20 September 2024',
       comment : 'No Comments',
       category : 'DS'
@@ -292,7 +288,7 @@ let CardData = [
         "What is the Data Science Life Cycle?",
       description:
         "From predicting market trends to optimizing business operations, data science provides the tools and",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2024/07/Feature-Image-2.png",
+      image: "https://th.bing.com/th/id/OIP.maM57awk3DY35tsz--_seAHaDt?w=305&h=175&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       date: '21 September 2024',
       comment : 'No Comments',
       category : 'DS'
@@ -385,7 +381,7 @@ let CardData = [
         "How Is Cyber Security Important To Our Lives?",
       description:
         "Cybersecurity is an exact solution that is sought either by a billionaire with a massive business or an innovator",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2020/11/cyber-security-1170x480.png",
+      image: "https://th.bing.com/th/id/OIP.cPuQttfpYmIzmIFYuoN1LwAAAA?w=311&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       date: '27 September 2024',
       comment : 'No Comments',
       category : 'CS'
