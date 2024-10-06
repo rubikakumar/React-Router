@@ -21,11 +21,11 @@ let CardData = [
       category : 'All'
     },
     {
-      id: 3,
-      title: "Step-by-Step Guide: MongoDB Install on Windows in 5 Simple Steps",
+       id: 3,
+      title: "Remove an element from a list in Python: 4 Convenient Methods To Look Out For",
       description:
-        "Embarking on a MongoDB install on Windows marks a significant first step towards harnessing",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2024/06/2-4.png",
+        "A list in Python refers to a data structure in Python that is mutable or changeable. A Python list can contain",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2022/11/giphy-1.gif",
       date: '30 September 2024',
       comment : 'No Comments',
       category : 'All'
